@@ -16,3 +16,5 @@ double average = GetAverage(numbers);
 Console.WriteLine(average);
 
 Console.WriteLine("gowno gowno gowno");
+
+Console.WriteLine("once again... gowno !");
