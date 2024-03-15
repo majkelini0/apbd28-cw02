@@ -18,3 +18,5 @@ Console.WriteLine(average);
 Console.WriteLine("gowno gowno gowno");
 
 Console.WriteLine("once again... gowno !");
+
+Console.WriteLine("o jejkuuu");
